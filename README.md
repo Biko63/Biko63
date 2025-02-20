@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Biko63
-- 👀 I’m interested in Python, especially for FreeCAD macros
+- 👀 I’m working with ESP32, mostly Arduino framework
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
